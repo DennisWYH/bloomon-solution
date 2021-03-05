@@ -29,8 +29,6 @@ a bonquet is made and print out via stdout.
 
 The application can be interrupted and exited by Contrl C.
 
-# Special attention
-This application is designed with the assumption that the the user will always input correctly according to the assignment instruction.
-The input validation is not done within the scope of the code. It can be added if needed.
-
-
+# Assumption
+The application assumes that user will correctly input data according to requirement.
+Though input value validation methods have also been introduced for precautious reason.
