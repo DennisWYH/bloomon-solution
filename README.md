@@ -32,3 +32,5 @@ The application can be interrupted and exited by Contrl C.
 # Assumption
 The application assumes that user will correctly input data according to requirement.
 Though input value validation methods have also been introduced for precautious reason.
+
+The application assumes that user wants to have stdout bouquet feedback instantly when there is a posibility.
