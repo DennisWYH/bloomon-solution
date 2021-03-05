@@ -27,9 +27,10 @@ The application will be open to user's input all the time until interrupted.
 User can keep inputing new flower arrival information, and as long as the flower numbers reach the criterial to make a bonquet,
 a bonquet is made and print out via stdout.
 
+The application can be interrupted and exited by Contrl z.
+
 # Special attention
 This application is designed with the assumption that the the user will always input correctly according to the assignment instruction.
 The input validation is not done within the scope of the code. It can be added if needed.
 
-The application can be interrupted and exited by Contrl z.
 
