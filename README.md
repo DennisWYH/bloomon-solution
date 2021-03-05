@@ -7,8 +7,8 @@ Please use below commands to run the Python command line application.
 Environment: Make sure you have docker installed
 
 Run:
-# sudo docker build -t bloomon-solution .
-# sudo docker run -it bloomon-solution BloomonBouquetMaker.py
+sudo docker build -t bloomon-solution .
+sudo docker run -it bloomon-solution BloomonBouquetMaker.py
 
 Once you have run the above commands. You will be ask to key in values in the command line prompt.
 Please follow the Bloonmon assignment task input format.
