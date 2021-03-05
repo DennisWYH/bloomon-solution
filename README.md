@@ -1,4 +1,4 @@
-# bloomon-solution
+# Bloomon-solution
 # Author: Yunhai Wang
 # Date: 05/03/2021
 # Summary: 
