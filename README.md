@@ -1,12 +1,15 @@
 # bloomon-solution
+Author: Yunhai Wang
+Date: 05/03/2021
+Summary: 
 This repository contains a Docker image that can be build and run on any machine with Docker installed.
-The application was written by Yunhai Wang. It is intended as a solution for bloomon's python interview task.
+It is intended as a solution for bloomon's python interview task. 
 The command line applicaation is writen in Python3, to mimick a bouquet making process.
 
 Please use below commands to run the Python command line application.
 Environment: Make sure you have docker installed
 
-Run:
+Cd to where the DockerFile is and run below commands (my operation system is OSX, you may need to adjust the build and run commands to your own system): 
 
 ```
 sudo docker build -t bloomon-solution .
